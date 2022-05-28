@@ -1,0 +1,20 @@
+//Guión charla Solidity
+
+Intro a todos
+
+- Hola a todos y bienvenidos a este curso de introducción a la ceación de contratos inteligentes en solidity
+- Soy Juan Isidro Mejía, cofundador de DOW7coin y estoy aquí para introducirlos a este apasniante mundo de la descentralización
+
+-- problema --
+
+A cuantos nos ha pasado alguna vez que queremos ingresar a nuestra app de banco, o queremos hacer una transferencia o pago inportante y resulta que no podemos por: Se cayó el sistema del banco, estas fuera del horario de la transferencia. QUisiera saber -- levanten la mano... bien gracias.. casi a todos no?
+
+También los que tengan algo más de 20 años recordaran cuando el estado decidió congelar los fondos en las cuentas bancarias, es ahí cuando mucha gente comprendió que el dinero en instituciones realmente está fuera de tu control... A algunos ciudadanos de ciertos países se les tienen restringidas ciertas transfencias lo cual  es un atentado a la libertad.
+
+Y no solo el tema monetario. Cuando queremos transferir una propuiedad de algún tipo, sean terrenos o derechos intelectuales siempre se lleva un proceso burocrático y este se quisiera hacer entre personas de diferentes países el proceso se hace mas complicado y lento.
+
+
+
+
+
+
